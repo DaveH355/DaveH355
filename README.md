@@ -10,4 +10,4 @@
 
 </div>
 
-> Learn complex numbers! https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/
+- Learn complex numbers! Be amazed! https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/
