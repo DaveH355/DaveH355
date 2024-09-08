@@ -11,4 +11,4 @@
 </div>
 
 - Learn complex numbers, be amazed! https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/
-- [Assimp](https://github.com/assimp/assimp) is bloat.
+- Assimp is bloat.
