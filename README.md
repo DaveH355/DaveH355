@@ -10,4 +10,5 @@
 
 </div>
 
-- Learn complex numbers! Be amazed! https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/
+- Learn complex numbers, be amazed! https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/
+- [Assimp](https://github.com/assimp/assimp) is bloat.
