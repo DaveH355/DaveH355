@@ -9,7 +9,14 @@
 <img src="https://github.com/DaveH355/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </div>
 
+#
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4" alt="Screenshot From 2025-07-11 14-24-41" width="100%">
 </div>
+
+<div align="center">
+<img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/c24ebcd5-e1f4-40a6-a95c-9088eedac7bf" />
+</div>
+
 
