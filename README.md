@@ -1,6 +1,6 @@
-## Hi, I'm David! 
+# Hi, I'm David! 👋 
 - I'm currently developing a game from scratch in C++ and OpenGL. 
-- I love learning about real-time rendering techniques
+- I love learning about real-time rendering techniques.
 
 <div align="center">
 <img src="https://github.com/DaveH355/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
@@ -13,5 +13,19 @@
 
 ## Screenshots
 
-<img width="1920" height="1005" alt="2048_1" src="https://github.com/user-attachments/assets/64ad6a70-9e01-4364-9f79-ff08d68a27d7" />
-<img width="1920" height="1080" alt="Screenshot From 2025-07-11 14-24-41" src="https://github.com/user-attachments/assets/72988bfb-9677-48e3-be2f-d1a7fce65f3a" />
+<div align="center">
+
+  <a href="https://github.com/user-attachments/assets/6262338b-dae5-4832-8daa-d432bc654218">
+    <img src="https://github.com/user-attachments/assets/6262338b-dae5-4832-8daa-d432bc654218"  width="75%">
+  </a>
+  <br><br>
+
+  <a href="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4">
+    <img src="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4" width="75%">
+  </a>
+  <br><br>
+
+  <a href="https://github.com/user-attachments/assets/c24ebcd5-e1f4-40a6-a95c-9088eedac7bf">
+    <img src="https://github.com/user-attachments/assets/c24ebcd5-e1f4-40a6-a95c-9088eedac7bf" width="75%">
+  </a>
+</div>
