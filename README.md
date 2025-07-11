@@ -1,12 +1,12 @@
 - Hi, I'm David! 
 - I'm currently working on a game from scratch in C++ and OpenGL
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4" alt="Screenshot From 2025-07-11 14-24-41" width="100%">
+</div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4" alt="Gameplay screenshot" width="80%" style="border: 2px solid #ccc; border-radius: 8px; ">
-  <br>
-  <sub><i>My OpenGL Playground</i></sub>
-</div>
+
 
 <img src="https://github.com/DaveH355/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/DaveH355/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
