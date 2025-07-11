@@ -1,6 +1,6 @@
-Hi I'm David! 
+## Hi I'm David! 
 
-I'm working on a OpenGL/C++ game from scratch
+### I'm working on a OpenGL/C++ game from scratch
 <img width="1920" height="1080" alt="Screenshot From 2025-07-11 14-24-41" src="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4" />
 
 
