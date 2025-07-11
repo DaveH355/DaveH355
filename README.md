@@ -12,13 +12,12 @@
 #
 
 <div align="center">
-<img width="1920" height="1005" alt="2048_1" src="https://github.com/user-attachments/assets/6262338b-dae5-4832-8daa-d432bc654218" />
+  <img src="https://github.com/user-attachments/assets/6262338b-dae5-4832-8daa-d432bc654218" alt="2048_1" width="600" style="border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 16px;" />
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4" alt="Screenshot From 2025-07-11 14-24-41" width="100%">
+  <img src="https://github.com/user-attachments/assets/409e9df0-aef1-40ad-a5a1-f2666df001f4" alt="Gameplay Screenshot" width="600" style="border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 16px;" />
 </div>
 <div align="center">
-<img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/c24ebcd5-e1f4-40a6-a95c-9088eedac7bf" />
+  <img src="https://github.com/user-attachments/assets/c24ebcd5-e1f4-40a6-a95c-9088eedac7bf" alt="Another Screenshot" width="600" style="border-radius: 10px; box-shadow: 2px 2px 12px #aaa;" />
 </div>
-
 
