@@ -1,5 +1,5 @@
-- Hi, I'm David! 
-- I'm currently working on a game from scratch in C++ and OpenGL
+## Hi, I'm David! 
+I'm currently developing a game from scratch in C++ and OpenGL. 
 
 <div align="center">
 <img src="https://github.com/DaveH355/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
@@ -9,7 +9,8 @@
 <img src="https://github.com/DaveH355/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </div>
 
-#
+
+## 🎮 Game Screenshots
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6262338b-dae5-4832-8daa-d432bc654218" alt="2048_1" width="600" style="border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 16px;" />
