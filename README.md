@@ -19,4 +19,8 @@
 <img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/c24ebcd5-e1f4-40a6-a95c-9088eedac7bf" />
 </div>
 
+<div align="center">
+<img width="1920" height="1005" alt="2048_1" src="https://github.com/user-attachments/assets/6262338b-dae5-4832-8daa-d432bc654218" />
+</div>
+
 
