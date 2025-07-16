@@ -1,6 +1,6 @@
 # Hi, I'm David! 👋 
 - I'm currently developing a game from scratch in C++ and OpenGL. 
-- I love learning about real-time rendering techniques.
+- I'm interested in real-time collision detection and 3D rendering 
 
 <div align="center">
 <img src="https://github.com/DaveH355/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
